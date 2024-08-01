@@ -1,0 +1,132 @@
+0.	Power house
+1.	Liquatabad
+2.	Numaish
+3.	Tower
+4.	Docklands
+5.	Mirannakka lyrics
+6.	Shireen jinnah colony
+
+7.	Millenium
+8.	Ftc
+9.	Defence morr
+10.	Dolmen mall
+11.	Indus hospital
+12.	Shaan chowrangi
+13.	Ibrahim hyderi
+
+14.	Bhatia town
+15.	Malir cantt
+16.	Malir
+17.	Model colony 
+18.	Malir halt
+19.	Naddi kinara
+20.	Quaidabad
+21.	Gulshen e hadeed
+
+0
+1
+10
+
+0
+7
+25
+
+1
+3
+5
+
+1
+8
+20
+
+2
+4
+12
+
+2
+7
+17
+
+2
+10
+30
+
+3
+4
+7
+
+3
+8
+12
+
+4
+5
+12
+
+4
+6
+22
+
+7
+11
+50
+
+7
+15
+28
+
+8
+9
+15
+
+8
+18
+45
+
+8
+16
+45
+
+9
+10
+25
+
+9
+11
+11
+
+9
+12
+8
+
+11
+20
+17
+
+11
+13
+6
+
+15
+14
+13
+
+18
+15
+16
+
+18
+20
+17
+
+18
+17
+7
+
+20
+19
+17
+
+20
+21
+23
